@@ -176,11 +176,8 @@ body {
 
 
 .navicon {
-    cursor: pointer;
-    margin: auto;
+    cursor: pointer; 
     position: relative;
-
-
 
 }
 
