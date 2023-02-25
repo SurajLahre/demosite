@@ -1,0 +1,176 @@
+@media(max-width:970px) {
+
+    #navid_bottom {
+        display: none;
+    }
+
+    .aboutsection {
+        flex-direction: column;
+        margin: auto;
+        justify-content: center;
+        flex-wrap: nowrap;
+        width: 100vw;
+        align-items: center;
+
+    }
+
+    .sicons {
+
+        color: black;
+        display: flex;
+        width: 40%;
+        margin-top: 20px;
+        margin-left: 5px;
+        cursor: pointer;
+        overflow: visible;
+
+    }
+
+    .detail_container {
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        padding: 5em;
+        margin-bottom: 5rem;
+    }
+
+    .get_tbox {   
+        width: 100%;
+        border-radius: 20px;
+    }
+
+   
+
+    .footerbox {
+
+        position: relative;
+        margin: auto;
+        flex-direction: column;
+        align-content: flex-start;
+        margin: 12px;
+    
+
+    }
+
+    .footerbox i {
+        color: white;
+    }
+
+    .sidebar_slid {
+
+
+        width: 50%;
+        transition: 2.2s;
+
+    }
+
+    #navid2 {
+        border-radius: 50px 0px 50px 0px;
+        margin-left: -4rem;
+        align-items: center;
+        text-align: center;
+        padding: 22px;
+        margin: 2px;
+    }
+
+}
+
+/* @media(max-width:970px) {
+
+ 
+
+
+    .textbox {
+        padding: 50px;
+        background: linear-gradient(to right, #0942ff56, #ff0000c2);
+        width: 75%;
+        float: right;
+        margin-top: 8em;
+        z-index: 1;
+
+    }
+
+
+
+    .navbar {
+
+        background-color: rgba(0, 0, 0, 0.753);
+        display: flex;
+        flex-direction: column;
+        width: 250px;
+        top: 0;
+        text-align: center;
+        z-index: 12;
+        height: 100vh;
+        margin-left: -12px;
+        display: none;
+        top: 0%;
+        position: sticky;
+
+    }
+
+    .header {
+        margin-top: -100px;
+    }
+
+
+    .bi-x-lg {
+        float: right;
+        cursor: pointer;
+        clear: both;
+    }
+
+    .navbar ul li {
+        color: white;
+    }
+
+    .position {
+        color: rgb(214, 184, 50);
+        color: #000000;
+        margin-left: 5px;
+        line-height: 35px;
+
+    }
+
+    .navbar ul {
+        margin-top: 62px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .navicon {
+        width: 100%;
+    }
+
+    .bi-contactus {
+        color: rgb(255, 0, 0);
+        padding: 12px;
+        cursor: pointer;
+        position: relative;
+
+    }
+
+    .navbar div img {
+        display: block;
+    }
+
+    #menuid {
+        display: block;
+        color: white;
+        size: 12px;
+        top: 0;
+        background-color: rgb(91, 56, 151);
+        display: block;
+        position: fixed;
+        z-index: 2;
+    }
+
+    .nav_container {
+        width: 100%;
+        display: none;
+    }
+
+    
+
+} */
